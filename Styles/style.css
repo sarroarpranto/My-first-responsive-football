@@ -1,8 +1,24 @@
 /*-----------------
    Font Style 
  ----------------*/
- @import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
  /*---- Common Font Style ----*/
  body{
-    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+ }
+ /* Header Title */
+ h1{
+     font-size: 64px;
+     font-weight: 700;
+ }
+ .live{
+     background-color: rgb(187, 85, 85);
+     text-decoration: none;
+     color: #FFFFFF;
+     font-size: 16px;
+ }
+ /* Header Banner */
+ .banner{
+    width: 556.01px;
+    height: 438px;
  }
